@@ -1,0 +1,21 @@
+[
+    
+    {
+        "name": "Alliser Thorne",
+        "actorName": "Owen Teale"
+     
+    },
+    
+     {
+        "characterName":"Alton Lannister",
+        "houseName":"Lannister",
+        "characterImageThumb":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NTU1NTAzOF5BMl5BanBnXkFtZTcwNzA2NDk4OA@@._V1._SX100_SY140_.jpg",
+        "characterImageFull":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NTU1NTAzOF5BMl5BanBnXkFtZTcwNzA2NDk4OA@@._V1_.jpg",
+        "characterLink":"/character/ch0305012/",
+        "actorName":"Karl Davies",
+        "actorLink":"/name/nm0203801/",
+        "killedBy":[
+           "Jaime Lannister"
+        ]
+     }
+]
